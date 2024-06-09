@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SproutScribble.Biz\SproutScribble.Biz.csproj" />
+  </ItemGroup>
+
 </Project>
