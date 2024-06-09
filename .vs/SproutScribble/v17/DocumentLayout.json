@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Projects\\pet_projects\\SproutScribble\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB87FE62-C683-4E25-81D5-332933A58B74}|src\\SproutScribble.Unit\\SproutScribble.Unit.csproj|c:\\projects\\pet_projects\\sproutscribble\\src\\sproutscribble.unit\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB87FE62-C683-4E25-81D5-332933A58B74}|src\\SproutScribble.Unit\\SproutScribble.Unit.csproj|solutionrelative:src\\sproutscribble.unit\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|c:\\projects\\pet_projects\\sproutscribble\\src\\sproutscribble.biz\\migrations\\20240609174201_addposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|solutionrelative:src\\sproutscribble.biz\\migrations\\20240609174201_addposts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|c:\\projects\\pet_projects\\sproutscribble\\src\\sproutscribble.biz\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|solutionrelative:src\\sproutscribble.biz\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|c:\\projects\\pet_projects\\sproutscribble\\src\\sproutscribble.biz\\databasecontext\\sproutscribbledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|solutionrelative:src\\sproutscribble.biz\\databasecontext\\sproutscribbledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|c:\\projects\\pet_projects\\sproutscribble\\src\\sproutscribble.biz\\posts\\postentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|solutionrelative:src\\sproutscribble.biz\\posts\\postentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|c:\\projects\\pet_projects\\sproutscribble\\src\\sproutscribble.biz\\posts\\postentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|solutionrelative:src\\sproutscribble.biz\\posts\\postentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364DA137-F980-4767-B35A-95F35DF69F89}|src\\SproutScribble.Api\\SproutScribble.Api.csproj|c:\\projects\\pet_projects\\sproutscribble\\src\\sproutscribble.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{364DA137-F980-4767-B35A-95F35DF69F89}|src\\SproutScribble.Api\\SproutScribble.Api.csproj|solutionrelative:src\\sproutscribble.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|c:\\projects\\pet_projects\\sproutscribble\\src\\sproutscribble.biz\\sproutscribble.biz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D0907B0-5A07-40BA-9212-FC9B4259DEFD}|src\\SproutScribble.Biz\\SproutScribble.Biz.csproj|solutionrelative:src\\sproutscribble.biz\\sproutscribble.biz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364DA137-F980-4767-B35A-95F35DF69F89}|src\\SproutScribble.Api\\SproutScribble.Api.csproj|c:\\projects\\pet_projects\\sproutscribble\\src\\sproutscribble.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364DA137-F980-4767-B35A-95F35DF69F89}|src\\SproutScribble.Api\\SproutScribble.Api.csproj|solutionrelative:src\\sproutscribble.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB87FE62-C683-4E25-81D5-332933A58B74}|src\\SproutScribble.Unit\\SproutScribble.Unit.csproj|c:\\projects\\pet_projects\\sproutscribble\\src\\sproutscribble.unit\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB87FE62-C683-4E25-81D5-332933A58B74}|src\\SproutScribble.Unit\\SproutScribble.Unit.csproj|solutionrelative:src\\sproutscribble.unit\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,6 +51,91 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "20240609174201_AddPosts.cs",
+              "DocumentMoniker": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\Migrations\\20240609174201_AddPosts.cs",
+              "RelativeDocumentMoniker": "src\\SproutScribble.Biz\\Migrations\\20240609174201_AddPosts.cs",
+              "ToolTip": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\Migrations\\20240609174201_AddPosts.cs",
+              "RelativeToolTip": "src\\SproutScribble.Biz\\Migrations\\20240609174201_AddPosts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:42:01.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\Posts\\PostEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "src\\SproutScribble.Biz\\Posts\\PostEntityConfiguration.cs",
+              "ToolTip": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\Posts\\PostEntityConfiguration.cs",
+              "RelativeToolTip": "src\\SproutScribble.Biz\\Posts\\PostEntityConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:32:50.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\Posts\\PostEntity.cs",
+              "RelativeDocumentMoniker": "src\\SproutScribble.Biz\\Posts\\PostEntity.cs",
+              "ToolTip": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\Posts\\PostEntity.cs",
+              "RelativeToolTip": "src\\SproutScribble.Biz\\Posts\\PostEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:29:41.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\SproutScribble.Api\\appsettings.json",
+              "ToolTip": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Api\\appsettings.json",
+              "RelativeToolTip": "src\\SproutScribble.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T17:24:28.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SproutScribbleDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\DatabaseContext\\SproutScribbleDbContext.cs",
+              "RelativeDocumentMoniker": "src\\SproutScribble.Biz\\DatabaseContext\\SproutScribbleDbContext.cs",
+              "ToolTip": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\DatabaseContext\\SproutScribbleDbContext.cs",
+              "RelativeToolTip": "src\\SproutScribble.Biz\\DatabaseContext\\SproutScribbleDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:22:39.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SproutScribble.Biz.csproj",
+              "DocumentMoniker": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\SproutScribble.Biz.csproj",
+              "RelativeDocumentMoniker": "src\\SproutScribble.Biz\\SproutScribble.Biz.csproj",
+              "ToolTip": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\SproutScribble.Biz.csproj",
+              "RelativeToolTip": "src\\SproutScribble.Biz\\SproutScribble.Biz.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-09T17:08:06.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\SproutScribble.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Api\\Program.cs",
+              "RelativeToolTip": "src\\SproutScribble.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T17:06:58.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Unit\\Class1.cs",
               "RelativeDocumentMoniker": "src\\SproutScribble.Unit\\Class1.cs",
@@ -34,21 +143,7 @@
               "RelativeToolTip": "src\\SproutScribble.Unit\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T15:56:04.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\Class1.cs",
-              "RelativeDocumentMoniker": "src\\SproutScribble.Biz\\Class1.cs",
-              "ToolTip": "C:\\Projects\\pet_projects\\SproutScribble\\src\\SproutScribble.Biz\\Class1.cs",
-              "RelativeToolTip": "src\\SproutScribble.Biz\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T15:42:46.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-09T15:56:04.942Z"
             }
           ]
         },

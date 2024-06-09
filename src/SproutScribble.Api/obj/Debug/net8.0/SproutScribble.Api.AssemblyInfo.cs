@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SproutScribble.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b203b80c56b79fbc38ba5fb22fbd9b26241a1df")]
 [assembly: System.Reflection.AssemblyProductAttribute("SproutScribble.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SproutScribble.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
