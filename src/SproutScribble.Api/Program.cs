@@ -1,16 +1,15 @@
-using Microsoft.AspNetCore.OpenApi;
-using Microsoft.OpenApi.Models;
+using SproutScribble.Api.Extensions;
 
 var builder = WebApplication.CreateBuilder(args);
 
+// Add services to the container
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen(c =>
-{
-    c.SwaggerDoc("v1", new OpenApiInfo { Title = "My API", Version = "v1" });
-});
+builder.Services.ConfigureSwagger();
+builder.Services.ConfigureCors();
 
 var app = builder.Build();
 
+// Configure the HTTP request pipeline
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -19,6 +18,9 @@ if (app.Environment.IsDevelopment())
         c.RoutePrefix = string.Empty;
     });
 }
+
+app.UseStaticFiles();
+app.UseCors("CorsPolicy");
 
 app.MapGet("/weathercasr", () => "Hello World!")
 .WithName("GetWeatherForecast")
