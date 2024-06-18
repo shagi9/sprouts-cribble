@@ -1,4 +1,8 @@
+using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
 using SproutScribble.Api.Extensions;
+using SproutScribble.Biz.DatabaseContext;
+using SproutScribble.Biz.Users;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -7,7 +11,19 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.ConfigureSwagger();
 builder.Services.ConfigureCors();
 
+builder.Services.AddAuthorization();
+builder.Services.AddAuthentication().AddBearerToken(IdentityConstants.BearerScheme);
+
+builder.Services.AddDbContext<SproutScribbleDbContext>(options =>
+    options.UseNpgsql(builder.Configuration.GetConnectionString("WebApiDatabase")));
+
+builder.Services.AddIdentityCore<UserEntity>()
+    .AddEntityFrameworkStores<SproutScribbleDbContext>()
+    .AddApiEndpoints();
+
 var app = builder.Build();
+
+app.MapIdentityApi<UserEntity>();
 
 // Configure the HTTP request pipeline
 if (app.Environment.IsDevelopment())
